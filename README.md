@@ -1,2 +1,15 @@
-# Do-The-Word-Of-God-APP
-PASTOR KASAJJA LAWRENCE APP - DO The Word Of God JAMES 1 : 22 - Audio and notes 
+# Do The Word Of God APP - James 1:22
+### Pastor Kasajja Lawrence Ministry 
+
+**Vision:** Be doers of the word. not hearers only! - James 1:22
+
+###FEATURES:
+-AUDIO SERMONS 
+-MY ACTION NOTES -
+-DAILY VERSE
+-PRAYER
+
+
+Build with sketchware pro
+Pastor Kasajja Lawrence - Kampala, Uganda 
+God Bless You! 
